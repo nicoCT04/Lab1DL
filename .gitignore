@@ -1,0 +1,13 @@
+# Entorno
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+
+# PDF del enunciado (opcional; ya está en el repo del curso)
+# Laboratorio #1. MLP.pdf
